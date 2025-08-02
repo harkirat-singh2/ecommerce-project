@@ -4,7 +4,7 @@ A modern, responsive e-commerce platform built with React, TypeScript, and Tailw
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://harkirat-singh2.github.io/ecommerce)
+[View Live Demo](https://harkirat-singh2.github.io/ecommerce-project)
 
 ## ✨ Features
 
@@ -29,8 +29,8 @@ A modern, responsive e-commerce platform built with React, TypeScript, and Tailw
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/harkirat-singh2/ecommerce.git
-cd ecommerce
+git clone https://github.com/harkirat-singh2/ecommerce-project.git
+cd ecommerce-project
 ```
 
 2. Install dependencies:
@@ -100,7 +100,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/harkirat-singh2/ecommerce/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/harkirat-singh2/ecommerce-project/issues).
 
 ---
 

@@ -11,4 +11,4 @@ echo "🌐 Deploying to GitHub Pages..."
 npm run deploy
 
 echo "✅ Deployment completed successfully!"
-echo "🔗 Your site will be available at: https://harkirat-singh2.github.io/ecommerce"
+echo "🔗 Your site will be available at: https://harkirat-singh2.github.io/ecommerce-project"

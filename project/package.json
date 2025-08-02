@@ -3,7 +3,7 @@
   "private": false,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://harkirat-singh2.github.io/ecommerce",
+  "homepage": "https://harkirat-singh2.github.io/ecommerce-project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
